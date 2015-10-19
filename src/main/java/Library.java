@@ -8,5 +8,5 @@ public class Library {
     public boolean someLibraryMethod() {
         return true;
     }
-    public void helloWorld() {System.out.println("Hello World"); }
+    public void helloWorld() {System.out.println("Hello World Gradle"); }
 }
